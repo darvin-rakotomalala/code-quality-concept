@@ -1,4 +1,4 @@
-## Notion qualité du code | Java | Spring Boot
+## Notion qualité de code Java | Spring Boot
 Dans ce repo, je vous partagess une ressource sur la façons d'améliorer la qualité du code Java - Spring Boot.
 
 *Notez que je suis toujours dans le processus d'apprentissage - probablement sans fin :)-*
